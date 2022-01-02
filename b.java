@@ -1,1 +1,6 @@
-hi this is 2nd file
+class HelloDevOps{
+
+	public static void main(String args[]){
+		System.out.println("Hello DevOps");
+}
+}
